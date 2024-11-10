@@ -8,9 +8,9 @@ This package contains type definitions for zetrix-encryption-nodejs (https://git
 
 # Details
 
-Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/zetrix-encryption-nodejs.
+Files were exported from https://github.com/Zetrix-Chain/zetrix-encryption-nodejs-ts.
 
-## [index.d.ts](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/stack-utils/index.d.ts)
+## [index.d.ts](https://github.com/Zetrix-Chain/zetrix-encryption-nodejs-ts/blob/master/index.d.ts)
 
 ### Additional Details
 
