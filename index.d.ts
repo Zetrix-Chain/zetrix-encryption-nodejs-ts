@@ -28,4 +28,3 @@ declare module 'signature' {
   export function verify(message: any, signature: string, encPublicKey: any): boolean
 }
 
-export { keypair, signature, keystore }
